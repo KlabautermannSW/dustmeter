@@ -1,0 +1,5 @@
+*.log
+*.odt
+scripts/
+obj/
+bin/
